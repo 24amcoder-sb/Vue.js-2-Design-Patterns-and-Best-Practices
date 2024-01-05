@@ -1,11 +1,12 @@
 repo_name: 24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices
-report_id: 61689372cab7e7ea859de8f3c74e4531
+report_id: aa08c38e6d0bf369aa51206386da332a
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-16T04:21:47+00:00'
+timestamp: '2024-01-05T08:40:04+00:00'
 requested_by: Packt-ITService
 provider: github
 branch: master
-detected_tools_count: 95
+detected_tools_count: 97
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices
   detection_source: Repo Metadata
 - name: Python
   description: A clear and powerful object-oriented programming language, comparable
@@ -35,6 +38,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -47,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices
   detection_source: Repo Metadata
 - name: ".NET"
   description: A free, cross-platform, open source developer platform for building
@@ -58,6 +64,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -69,6 +77,8 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -83,8 +93,9 @@ tools:
   category: Languages & Frameworks
   sub_category: Microframeworks (Backend)
   image_url: https://img.stackshare.io/service/1163/hashtag.png
-  detection_source_url: Chapter01/1.3 first-ssr/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.3
+    first-ssr/package-lock.json
+  detection_source: Chapter01/1.3 first-ssr/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: RxJS
@@ -96,7 +107,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Concurrency Frameworks
   image_url: https://img.stackshare.io/service/1796/984368.png
-  detection_source_url: Chapter02/2.3 vue-rxjs-adding-observable/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.3
+    vue-rxjs-adding-observable/package-lock.json
   detection_source: Chapter02/2.3 vue-rxjs-adding-observable/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -109,7 +121,9 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter06/6.2
+    Chapter-6-Vue-Animate-CSS-master/package.json
+  detection_source: Chapter06/6.2 Chapter-6-Vue-Animate-CSS-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: Vue.js
@@ -122,8 +136,9 @@ tools:
   category: Libraries
   sub_category: Javascript MVC Frameworks
   image_url: https://img.stackshare.io/service/3837/paeckCWC.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
+  detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: css-loader
@@ -135,7 +150,9 @@ tools:
   category: Languages & Frameworks
   sub_category: CSS Pre-processors / Extensions
   image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vuex
@@ -147,6 +164,8 @@ tools:
   category: Libraries
   sub_category: State Management Library
   image_url: https://img.stackshare.io/service/6705/6128107.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter09/9.1
+    Chapter-9-Vuex-Counter-Example-master/package.json
   detection_source: Chapter09/9.1 Chapter-9-Vuex-Counter-Example-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -159,8 +178,9 @@ tools:
   category: Application Hosting
   sub_category: Realtime Backend / API
   image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
-  detection_source_url: Chapter07/7.2 Chapter-7-Vue.js-Socketio-Chat-master/server/package-lock.json
-  detection_source: Chapter07/7.2 Chapter-7-Vue.js-Socketio-Chat-master/server/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter07/7.2
+    Chapter-7-Vue.js-Socketio-Chat-master/server/package-lock.json
+  detection_source: Chapter07/7.2 Chapter-7-Vue.js-Socketio-Chat-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: Babel
@@ -173,8 +193,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: JavaScript Compilers
   image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: ESLint
@@ -186,7 +207,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: Code Review
   image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: Git
@@ -197,6 +220,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices
   detection_source: Repo Metadata
 - name: Gradle
   description: A powerful build system for the JVM
@@ -207,6 +231,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/app/App_Resources/Android/app.gradle
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/app/App_Resources/Android/app.gradle
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -220,8 +246,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: Javascript Testing Framework
   image_url: https://img.stackshare.io/service/830/jest.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: NuGet
@@ -232,6 +259,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -243,6 +272,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Hosted Package Repository
   image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -255,6 +286,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/.travis.yml
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/.travis.yml
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -268,8 +301,9 @@ tools:
   category: Build, Test, Deploy
   sub_category: JS Build Tools / JS Task Runners
   image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/webpack.config.js
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: npm
@@ -280,6 +314,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter12/12.1
+    Chapter-12-Vue-Nuxt-master/package.json
   detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -294,8 +330,9 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/service/3643/Xrtdc94q_400x400.png
-  detection_source_url: Chapter04/4.11 vue-filters/package-lock.json
-  detection_source: Chapter05/5.8 vue-slots-named/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter04/4.11
+    vue-filters/package-lock.json
+  detection_source: Chapter04/4.11 vue-filters/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: axios
@@ -308,8 +345,9 @@ tools:
   category: Libraries
   sub_category: Javascript Utilities & Libraries
   image_url: https://img.stackshare.io/no-img-open-source.png
-  detection_source_url: Chapter03/3.5 watched/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter03/3.5
+    watched/package-lock.json
+  detection_source: Chapter03/3.5 watched/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: chalk
@@ -318,6 +356,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -327,6 +367,8 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/6612/ehMiE-wz_normal.jpg
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -340,8 +382,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-core
@@ -354,8 +397,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-eslint
@@ -368,8 +412,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-jest
@@ -382,8 +427,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-loader
@@ -396,8 +442,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-plugin-syntax-dynamic-import
@@ -410,7 +457,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16333/default_e8196e273db814cf9be505b35dec386fafb0dbaa.png
-  detection_source_url: Chapter08/8.1 Chapter-8-Vue-Lazy-Loading-Routes-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter08/8.1
+    Chapter-8-Vue-Lazy-Loading-Routes-master/package-lock.json
   detection_source: Chapter08/8.1 Chapter-8-Vue-Lazy-Loading-Routes-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -424,7 +472,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16079/default_c7b204838197013798409fa2b4dafce450edc7fb.png
-  detection_source_url: Chapter06/6.4 Chapter-6-Vue-Functional-Component-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter06/6.4
+    Chapter-6-Vue-Functional-Component-master/package-lock.json
   detection_source: Chapter06/6.4 Chapter-6-Vue-Functional-Component-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -438,7 +487,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15849/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -452,7 +502,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16213/default_41f04716a804e853d5c38a5b81ee0ea8a842ad82.png
-  detection_source_url: Chapter06/6.4 Chapter-6-Vue-Functional-Component-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter06/6.4
+    Chapter-6-Vue-Functional-Component-master/package-lock.json
   detection_source: Chapter06/6.4 Chapter-6-Vue-Functional-Component-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -466,7 +517,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15867/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: Chapter04/4.10 vue-conditionals-v-else-if/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter04/4.10
+    vue-conditionals-v-else-if/package-lock.json
   detection_source: Chapter04/4.10 vue-conditionals-v-else-if/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -480,8 +532,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-preset-stage-2
@@ -494,7 +547,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15891/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -508,8 +562,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16023/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
-  detection_source_url: Chapter04/4.1 vue-model/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter04/4.1
+    vue-model/package-lock.json
+  detection_source: Chapter04/4.1 vue-model/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: babel-register
@@ -522,7 +577,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -536,7 +592,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16947/default_7b9968788548874538c601457e8dcd9c74bd2051.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -550,7 +607,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16693/default_e3c0987b80983280e46e6e1723fcfcff50fa4824.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -564,8 +622,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16596/default_e654289254bcb9b55e3dca992739e962dc0c7297.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
+  last_updated_by: diksha
+  last_updated_on: 2018-03-08 08:06:07.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 1.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: connect-history-api-fallback
@@ -579,7 +653,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16214/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -593,7 +668,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -607,8 +683,24 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15828/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
+  last_updated_by: diksha
+  last_updated_on: 2018-03-08 08:06:07.000000000 Z
+- name: cssnano
+  description: A modular minifier, built on top of the PostCSS ecosystem
+  package_url: https://www.npmjs.com/cssnano
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16102/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: eslint-config-airbnb-base
@@ -621,7 +713,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -635,7 +728,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15872/default_e4668902f8489350db9b0fb228523a571ef05b26.png
-  detection_source_url: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter12/12.1
+    Chapter-12-Vue-Nuxt-master/package-lock.json
   detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -650,7 +744,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16184/default_351a89f21bfb241e8dabeb1444cf56f529948708.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -664,7 +759,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16302/default_97104dc50154593d2dde1d791400955934c9c715.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -678,8 +774,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15889/default_724d5bc657ec09174564f19f2a5d26098549124a.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: eslint-plugin-html
@@ -692,8 +789,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16129/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: eslint-plugin-import
@@ -706,8 +804,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: eslint-plugin-node
@@ -720,8 +819,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
-  detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: eslint-plugin-promise
@@ -734,7 +834,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15885/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter12/12.1
+    Chapter-12-Vue-Nuxt-master/package-lock.json
   detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -748,7 +849,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15884/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter12/12.1
+    Chapter-12-Vue-Nuxt-master/package-lock.json
   detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -762,7 +864,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16253/default_5dfc1810d0882ab844578a326bb8bf19e45e7227.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -776,8 +879,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Chapter01/1.3 first-ssr/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.3
+    first-ssr/package-lock.json
+  detection_source: Chapter01/1.3 first-ssr/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
   vulnerabilities:
@@ -797,7 +901,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15855/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -811,8 +916,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: friendly-errors-webpack-plugin
@@ -825,7 +931,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16091/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -839,7 +946,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15841/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -853,7 +961,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16167/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -867,8 +976,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15847/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
-  detection_source_url: Chapter04/4.11 vue-filters/package-lock.json
-  detection_source: Chapter05/5.8 vue-slots-named/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter04/4.11
+    vue-filters/package-lock.json
+  detection_source: Chapter04/4.11 vue-filters/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
   vulnerabilities:
@@ -900,8 +1010,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Chapter06/6.2 Chapter-6-Vue-Animate-CSS-master/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter06/6.2
+    Chapter-6-Vue-Animate-CSS-master/package-lock.json
+  detection_source: Chapter06/6.2 Chapter-6-Vue-Animate-CSS-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
   vulnerabilities:
@@ -927,7 +1038,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17986/default_3c26cdeaec6eea61500856203ee8d97e81b93f76.png
-  detection_source_url: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter12/12.1
+    Chapter-12-Vue-Nuxt-master/package-lock.json
   detection_source: Chapter12/12.1 Chapter-12-Vue-Nuxt-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -941,7 +1053,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16099/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -955,7 +1068,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15964/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -969,7 +1083,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15937/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -983,7 +1098,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15807/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -997,8 +1113,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: Chapter06/6.2 Chapter-6-Vue-Animate-CSS-master/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter06/6.2
+    Chapter-6-Vue-Animate-CSS-master/package-lock.json
+  detection_source: Chapter06/6.2 Chapter-6-Vue-Animate-CSS-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: shelljs
@@ -1011,7 +1128,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1038,7 +1156,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
-  detection_source_url: Chapter07/7.2 Chapter-7-Vue.js-Socketio-Chat-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter07/7.2
+    Chapter-7-Vue.js-Socketio-Chat-master/package-lock.json
   detection_source: Chapter07/7.2 Chapter-7-Vue.js-Socketio-Chat-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1052,7 +1171,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16432/default_ee431b56fd1088dacc89b5f35971ce5954c5c6d3.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1066,7 +1186,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16972/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
   detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1080,8 +1201,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15938/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter02/2.2 ts-vue-2/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: uglify-es
@@ -1094,7 +1216,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16242/default_380ae3d73e22c7ca1f42b96479bcd0095dabc0d3.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1108,7 +1231,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15858/default_a2f722724df977d0f7752839e5d8845ab41f69d5.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1122,8 +1246,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15916/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.1 vue-parent-child-anti/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue
@@ -1136,8 +1261,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15844/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
+  detection_source: Chapter01/1.3 first-ssr/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-class-component
@@ -1150,8 +1276,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16641/default_5a21421012fa20e57fe0aeab31228f42e7118abc.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter02/2.2 ts-vue-2/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-jest
@@ -1164,8 +1291,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16554/default_50be6a65e5f7390c20dda2f19371abc1271db012.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-loader
@@ -1178,8 +1306,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15901/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-property-decorator
@@ -1192,8 +1321,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16727/default_c11d90814ded8fcd305b22fdc42b42a3111f1f6d.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter02/2.2 ts-vue-2/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-router
@@ -1206,8 +1336,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15969/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: Chapter01/1.2 first-app-with-nativescript-vue/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.2
+    first-app-with-nativescript-vue/package-lock.json
+  detection_source: Chapter01/1.2 first-app-with-nativescript-vue/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-server-renderer
@@ -1220,7 +1351,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/17043/default_0e6669b56ffe7d68d8118eb8e85d024215fd5906.png
-  detection_source_url: Chapter01/1.3 first-ssr/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter01/1.3
+    first-ssr/package-lock.json
   detection_source: Chapter01/1.3 first-ssr/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1234,7 +1366,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16024/default_5a461d436012a0c4024534aaba303dcdb0297d24.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1248,8 +1381,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15850/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: vue-test-utils
@@ -1262,8 +1396,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/18058/image.png
-  detection_source_url: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
-  detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter10/10.1
+    Chapter-10-Vue-Testing-with-Jest-master/package-lock.json
+  detection_source: Chapter10/10.1 Chapter-10-Vue-Testing-with-Jest-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
 - name: webpack-bundle-analyzer
@@ -1277,7 +1412,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15991/default_cbd6c289400672b291755183817e9dd6abe1a612.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1298,7 +1434,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16020/default_924b66c04aa848a4028c1a5753a23dae0f835f86.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1312,8 +1449,9 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15821/default_64690bc3e49bcee57094e51a7a26c620c48dbd82.png
-  detection_source_url: Chapter02/2.1 ts-vue-1/package-lock.json
-  detection_source: Chapter13/13.3 vue-test-with-jest/package.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter02/2.1
+    ts-vue-1/package-lock.json
+  detection_source: Chapter02/2.1 ts-vue-1/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
   vulnerabilities:
@@ -1333,7 +1471,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/16052/default_261820f5687b4c88a3e8f95c71b5e8dccd34c1d7.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z
@@ -1347,7 +1486,8 @@ tools:
   category: Libraries
   sub_category: npm Packages
   image_url: https://img.stackshare.io/package/15925/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
-  detection_source_url: Chapter11/11.1 Chapter-11-Vue-PWA-master/package-lock.json
+  detection_source_url: https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices/blob/master/Chapter11/11.1
+    Chapter-11-Vue-PWA-master/package-lock.json
   detection_source: Chapter11/11.1 Chapter-11-Vue-PWA-master/package.json
   last_updated_by: diksha
   last_updated_on: 2018-03-08 08:06:07.000000000 Z

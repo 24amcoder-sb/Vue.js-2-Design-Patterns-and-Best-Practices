@@ -1,7 +1,8 @@
 <!--
---- Readme.md Snippet without images Start ---
+&lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack
 24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices is built on the following main stack:
+
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Gradle](https://www.gradle.org/) – Java Build Tools
 - [Python](https://www.python.org) – Languages
@@ -24,11 +25,13 @@
 - [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet without images End ---
 
---- Readme.md Snippet with images Start ---
+&lt;--- Readme.md Snippet without images End ---&gt;
+
+&lt;--- Readme.md Snippet with images Start ---&gt;
 ## Tech Stack
 24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices is built on the following main stack:
+
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/975/gradlephant-social-black-bg.png' alt='Gradle'/> [Gradle](https://www.gradle.org/) – Java Build Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
@@ -51,14 +54,15 @@ Full tech stack [here](/techstack.md)
 - <img width='25' height='25' src='https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png' alt='Travis CI'/> [Travis CI](http://travis-ci.com/) – Continuous Integration
 
 Full tech stack [here](/techstack.md)
---- Readme.md Snippet with images End ---
+
+&lt;--- Readme.md Snippet with images End ---&gt;
 -->
 <div align="center">
 
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices](https://github.com/24amcoder-sb/Vue.js-2-Design-Patterns-and-Best-Practices)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|95<br/>Tools used|11/16/23 <br/>Report generated|
+|97<br/>Tools used|01/05/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -306,9 +310,9 @@ Full tech stack [here](/techstack.md)
 </table>
 
 
-## <img src='https://img.stackshare.io/group.svg' /> Open source packages (68)</h2>
+## <img src='https://img.stackshare.io/group.svg' /> Open source packages (70)</h2>
 
-## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (68)
+## <img width='24' height='24' src='https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png'/> npm (70)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
@@ -329,9 +333,11 @@ Full tech stack [here](/techstack.md)
 |[babel-traverse](https://www.npmjs.com/babel-traverse)|v6.24.1|03/08/18|diksha |MIT|N/A|
 |[babel-types](https://www.npmjs.com/babel-types)|v6.24.1|03/08/18|diksha |MIT|N/A|
 |[babylon](https://www.npmjs.com/babylon)|v6.16.1|03/08/18|diksha |MIT|N/A|
+|[chalk](https://www.npmjs.com/chalk)|v1.1.3|03/08/18|diksha |MIT|N/A|
 |[connect-history-api-fallback](https://www.npmjs.com/connect-history-api-fallback)|v1.3.0|03/08/18|diksha |MIT|N/A|
 |[copy-webpack-plugin](https://www.npmjs.com/copy-webpack-plugin)|v4.3.1|03/08/18|diksha |MIT|N/A|
 |[cross-env](https://www.npmjs.com/cross-env)|v3.2.4|03/08/18|diksha |MIT|N/A|
+|[cssnano](https://www.npmjs.com/cssnano)|v3.10.0|03/08/18|diksha |MIT|N/A|
 |[eslint-config-airbnb-base](https://www.npmjs.com/eslint-config-airbnb-base)|v11.3.2|03/08/18|diksha |MIT|N/A|
 |[eslint-config-standard](https://www.npmjs.com/eslint-config-standard)|v10.2.1|03/08/18|diksha |MIT|N/A|
 |[eslint-friendly-formatter](https://www.npmjs.com/eslint-friendly-formatter)|v3.0.0|03/08/18|diksha |MIT|N/A|
